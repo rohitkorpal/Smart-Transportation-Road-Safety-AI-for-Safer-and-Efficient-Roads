@@ -42,6 +42,7 @@ This project uses advanced computer vision (YOLO + DeepSORT) to detect crashes, 
 - Explosion prediction (concept)
 
 ---
+
 ## 🏗 System Architecture (Flow)
 CCTV Feed / Video File
 ↓
@@ -55,6 +56,8 @@ Alerts → (Console / SMS / Email)
 ↓
 Traffic Optimizer → Smart-Signal Control
 
+---
+
 ## 📂 Folder Structure
 Accident_AI/
 │── main.py
@@ -64,6 +67,8 @@ Accident_AI/
 │── videos/
 │── requirements.txt
 │── README.md
+
+---
 
 ## 🚦 Traffic Optimization Logic
 System counts vehicles per lane → detects congestion → gives more green light time to busy road → auto-switches red when flow is clear.
