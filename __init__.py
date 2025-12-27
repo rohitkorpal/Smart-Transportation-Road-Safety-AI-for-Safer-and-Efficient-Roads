@@ -1,4 +1,4 @@
 """
-Logic modules for accident detection and alerting
+Detection modules for vehicles, humans, and fire
 """
 
